@@ -161,4 +161,4 @@ cython_debug/
 
 
 # Challenge 2 downloaded json
-challenge-2/data.json
+challenge-2/data.json*
