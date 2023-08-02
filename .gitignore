@@ -159,6 +159,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+# Challenge 1 .csv file
+challenge-1/sample.xls*
 
 # Challenge 2 downloaded json
 challenge-2/data.json*
